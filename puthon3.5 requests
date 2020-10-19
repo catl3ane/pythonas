@@ -1,0 +1,131 @@
+ 1388  sudo pip3 install --upgrade -r requirements.txt
+ 1389  python3 usm_checker.py
+ 1390  ps axu | grep -i abills
+ 1391  php usm_abills.php 
+ 1392  python3 --help
+ 1393  python3 -V
+ 1394  sudo apt-get install python3.5
+ 1395  python3 usm_checker.py
+ 1396  python3 -V
+ 1397  apt remove python3 python3.4
+ 1398  python3 -V
+ 1399  apt remove python3.4-minimal python2.7 python2.7-minimal python3-minimal 
+ 1400  python3 -V
+ 1401* 
+ 1402  python3.5 usm_checker.py
+ 1403  sudo pip3 install --upgrade -r requirements.txt
+ 1404  apt install pip3
+ 1405  apt install pip
+ 1406  apt install python3-pip
+ 1407  sudo pip3 install --upgrade -r requirements.txt
+ 1408* python3.5-p
+ 1409  apt install python3-pysnmp4 
+ 1410  apt install python3-requests python3-yaml
+ 1411  python3.5 usm_checker.py
+ 1412  python3 usm_checker.py
+ 1413  python3.4 usm_checker.py
+ 1414  python3.5 usm_checker.py
+ 1415* pip3 install py
+ 1416  python3.5 usm_checker.py
+ 1417  python3.5 -V
+ 1418  pip install pysnmp
+ 1419  pip3 install pysnmp
+ 1420  apt remove python3.4 python3.4-minimal 
+ 1421  pip3 install pysnmp
+ 1422  pip install pysnmp
+ 1423  apt install python-pip
+ 1424  pip install pysnmp
+ 1425  sudo update-alternatives --config python
+ 1426  python --version
+ 1427  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 1
+ 1428  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 
+ 1429  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 1
+ 1430  python --version
+ 1431  pip install pysnmp
+ 1432  python3.5 usm_checker.py
+ 1433* pip3 install p
+ 1434  history | grep -i requests
+ 1435  apt install python3-requests 
+ 1436  pip install request
+ 1437* pip3 install re
+ 1438  python3.5 usm_checker.py
+ 1439  pip install pysnmp
+ 1440  python --version
+ 1441  python3.5 usm_checker.py
+ 1442  python usm_checker.py
+ 1443  pip install pysnmp
+ 1444  apt install python-requests python-pysnmp4
+ 1445  apt install python3-requests python3-pysnmp4 
+ 1446  apt install -f
+ 1447  apt remove python python3 python3.4 python3.5
+ 1448  sudo apt-get autoremove python
+ 1449  sudo apt-get purge python
+ 1450  apt-get -f install
+ 1451  sudo apt-get autoremove python
+ 1452  sudo apt-get install python3.5
+ 1453  apt-get -f install
+ 1454  sudo apt-get clean
+ 1455  sudo apt-get update
+ 1456  sudo apt-get install --reinstall python-minimal python-lockfile
+ 1457  sudo apt-get install python3.5
+ 1458  python --version
+ 1459  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 1
+ 1460  python --version
+ 1461  history 
+ 1462  python3.5 usm_checker.py
+ 1463  pip install requests
+ 1464  pip3 install requests
+ 1465  apt install pip3
+ 1466  apt install python3-pip
+ 1467  pip3 install requests
+ 1468  python --version
+ 1469* pip3 install python
+ 1470  python3.5 usm_checker.py
+ 1471  apt install python-snmp
+ 1472  apt install python-pysnmp4
+ 1473  sudo apt-get clean
+ 1474  sudo apt-get update
+ 1475  sudo apt-get install --reinstall python-minimal python-lockfile
+ 1476  apt install python-pysnmp4
+ 1477  python --version
+ 1478  sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.5 1
+ 1479  apt install python3.5
+ 1480  python --version
+ 1481  apt install python-pysnmp4
+ 1482  apt autoremove
+ 1483  apt-get autoremove
+ 1484  python3.5 usm_checker.py
+ 1485  apt install python3.5-pysnmp
+ 1486  sudo apt-get install python3-setuptools
+ 1487  sudo python3.5 easy_install.py pip
+ 1488  python3.5 -m ensurepip
+ 1489  sudo apt-get install pip3
+ 1490  sudo apt-get install python3-setuptools
+ 1491  sudo python3.5 /usr/local/lib/python3.5/dist-packages/easy_install.py pip
+ 1492  python3.5 get-pip.py --user
+ 1493  curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+ 1494  python3.5 get-pip.py --user
+ 1495  pip3 install --upgrade pip3==3.5
+ 1496  python3.5 -m pip install --user pysnmp
+ 1497  python3.5 usm_checker.py
+ 1498  python3.5 -m pip install --user yaml
+ 1499  apt install python3-yaml
+ 1500  python3.5 usm_checker.py
+ 1501  apt install python3-requests
+ 1502  python3.5 -m pip install --user yaml
+ 1503  python3.5 -m pip install --user requests
+ 1504  python3.5 usm_checker.py
+ 1505  pip3 install requests
+ 1506  python3.5 -m pip install --user requests
+ 1507  pip3 install requests
+ 1508  python3.5 -m pip install --user requests
+ 1509  sudo python3.5 -m pip install --user requests
+ 1510  sudo -H python3.5 -m pip install --user requests
+ 1511  sudo -H python3.5 -m pip install --user yaml
+ 1512  python3.5 usm_checker.py
+ 1513  sudo python3.5 -m pip install --user requests
+ 1514  pip install requests
+ 1515  sudo python3.5 -m pip install --user requests
+ 1516  pip install requests==2.24.0
+ 1517  sudo python3.5 -m pip install --user requests==2.24.0
+ 1518  python3.5 usm_checker.py     
